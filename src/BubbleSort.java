@@ -1,4 +1,3 @@
-// Java program for implementation of Bubble Sort
 import java.util.*;
 
 class BubbleSort {
@@ -15,7 +14,7 @@ class BubbleSort {
 				}
 	}
 
-	/* Prints the array */
+
 	void printArray(int arr[])
 	{
 		int n = arr.length;
@@ -24,7 +23,7 @@ class BubbleSort {
 		System.out.println();
 	}
 
-	// Driver method to test above
+
 	public static void main(String args[])
 	{
 		BubbleSort ob = new BubbleSort();
@@ -34,4 +33,3 @@ class BubbleSort {
 		ob.printArray(arr);
 	}
 }
-/* This code is contributed by Rajat Mishra */
