@@ -1,5 +1,6 @@
 # SE-assignment
+Submittedd BY:
 
-2k22/CSE/60 : Muhammad Ali Nizamani 
+Muhammad Ali Nizamani : 2k22/CSE/60 
 
-2k22/CSE/14 : Abu Ubaidah Rustamani
+Abu Ubaidah Rustamani : 2k22/CSE/14 
